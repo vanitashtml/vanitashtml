@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Reynaldo</h1>
 <h3 align="center">A passionate tetris player from Antartica</h3>
 
-- 🔭 I’m currently working on work **Job Work**
+- 🔭 I’m currently working on work **Job Less**
 
-- 🌱 I’m currently learning how to speak **Learn to speak**
+- 🌱 I’m currently learning how to speak 
 
-- 👯 I’m looking to collaborate on work **Work Job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
